@@ -134,16 +134,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Photos from [Unsplash](https://unsplash.com)
-- Icons from [Lucide](https://lucide.dev)
-- Animations powered by [Framer Motion](https://www.framer.com/motion)
-
 ---
 
 Built with ❤️ using Next.js and Framer Motion
